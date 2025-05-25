@@ -26,5 +26,5 @@ pip install uv
 uv sync
 
 # Запуск.
-cd pets && fastapi run
+fastapi run pets/main.py
 ```
